@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Cipher {
+public class Cipher{
 
     public static class CipherApp{
 
