@@ -126,7 +126,7 @@ public class Cipher{
             newShift = scan.nextInt();
 
             System.out.println("You entered " + newShift);
-            if (newShift == 0 || newShift > 94 || newShift < -94) {
+            if (newShift == 0 || newShift > 93 || newShift < -93) {
                 System.out.println("That is not a valid shift value");
 
             } else {
